@@ -7,3 +7,4 @@ letters=set(str_input)
 for letter in letters:
     #count = 0
     print(letter+','+str(str_input.count(letter)))
+    
