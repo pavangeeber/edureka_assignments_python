@@ -27,3 +27,4 @@ if count_uppercase==0 or count_lowercase==0 or count_specialchars==0 or count_di
     print("Invalid password")
 else:
     print("Valid password")
+    
